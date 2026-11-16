@@ -7,3 +7,5 @@ playwright-report/
 test-results/
 drizzle/meta/
 *.tsbuildinfo
+
+.vercel
